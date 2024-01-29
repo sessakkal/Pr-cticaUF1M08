@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/drawer1Fragment2"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:title="Buscar Canciones" />
+
+    <item
+        android:id="@+id/drawer2Fragment2"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:title="Cantante Favorito" />
+
+</menu>
